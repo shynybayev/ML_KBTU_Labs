@@ -1,2 +1,2 @@
 # ML_KBTU_Labs
-Maching lLabs
+machine learning labs
